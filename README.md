@@ -32,7 +32,7 @@ Si vous ne souhaitez pas utiliser Git, vous pouvez également télécharger les 
 Ouvrez un terminal (ou PowerShell sous Windows) et naviguez jusqu'au dossier où vous avez téléchargé ou cloné le projet. Par exemple, si le projet est sur votre bureau, utilisez la commande suivante :
 
 ```bash
-cd Desktop/Code/Java/PongGame-En-Java
+cd Desktop/PongGame-En-Java
 ```
 Cette commande vous amène dans le dossier du projet où tous les fichiers Java sont stockés.
 
